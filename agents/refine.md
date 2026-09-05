@@ -46,8 +46,9 @@ later.
 
 ## Review checklist
 
-Read `CLAUDE.md`, `docs/02-architecture.md` and the architecture
-standard skill it references, then assess the diff against:
+Read `CLAUDE.md`, `docs/02-architecture.md`, the architecture
+standard skill it references, and the `code-standard` skill, then
+assess the diff against:
 
 **Architecture**
 

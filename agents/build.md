@@ -36,6 +36,7 @@ Read in this order:
 - `docs/03-plan.md` - your task only, plus its dependencies
 - `docs/02-architecture.md` - the shape you must conform to
 - the architecture standard skill named in `CLAUDE.md`
+- the `code-standard` skill
 
 Read only the source files the task names, plus what you need to
 understand them. Do not explore the repository broadly.
