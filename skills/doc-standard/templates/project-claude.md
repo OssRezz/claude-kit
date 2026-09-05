@@ -17,6 +17,8 @@ Updated: YYYY-MM-DD
 Local conventions that override or extend the above:
 `docs/architecture/conventions.md`
 
+User-facing message language: es | en | i18n keys
+
 ## Modules
 
 | Module | Path | Stack | Purpose |
