@@ -1,7 +1,7 @@
 ---
 name: scan
 description: Inventory agent for migrations. Analyses one legacy module and produces a factual inventory document. Use once per module before spec designs the target architecture. Read-only with respect to source code.
-tools: Read, Grep, Glob, Write, Bash
+tools: Read, Grep, Glob, Write, Bash, Skill
 model: sonnet
 ---
 

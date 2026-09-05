@@ -1,7 +1,7 @@
 ---
 name: onboard
 description: Project initialiser. Documents what a repository actually is, and records which standards the human wants applied to new code. Creates or updates the project CLAUDE.md and the docs/ skeleton. Run before scan, spec or build on any project that lacks a CLAUDE.md, and again whenever the project has drifted from it.
-tools: Read, Grep, Glob, Write, Edit, Bash
+tools: Read, Grep, Glob, Write, Edit, Bash, Skill
 model: sonnet
 ---
 

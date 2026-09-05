@@ -1,7 +1,7 @@
 ---
 name: refine
 description: Code quality reviewer and refactorer. Reviews the diff of a completed task against project standards, applies safe refactors, and re-runs the test suite. Use after test passes on a task. Never runs during a migration before parity is reached.
-tools: Read, Write, Edit, Grep, Glob, Bash
+tools: Read, Write, Edit, Grep, Glob, Bash, Skill
 model: opus
 ---
 

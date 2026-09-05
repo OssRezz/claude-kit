@@ -1,7 +1,7 @@
 ---
 name: build
 description: Developer. Implements one task from docs/03-plan.md, following the project architecture standards. Use after spec has produced a plan and the human approved it. Implements only what the task states.
-tools: Read, Write, Edit, Grep, Glob, Bash
+tools: Read, Write, Edit, Grep, Glob, Bash, Skill
 model: sonnet
 ---
 

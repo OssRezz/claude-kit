@@ -1,7 +1,7 @@
 ---
 name: test
 description: QA. Designs and writes tests for a task, runs them, and reports against the plan's acceptance criteria. Use after build completes a task, or before build in a fix flow to reproduce the defect first.
-tools: Read, Write, Edit, Grep, Glob, Bash
+tools: Read, Write, Edit, Grep, Glob, Bash, Skill
 model: sonnet
 ---
 

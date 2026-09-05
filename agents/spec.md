@@ -1,7 +1,7 @@
 ---
 name: spec
 description: Analyst. Turns an idea or a legacy codebase into requirements, architecture and an executable plan. Use before any implementation work, and whenever a plan needs to be revised. Never writes application code.
-tools: Read, Grep, Glob, Write, Edit
+tools: Read, Grep, Glob, Write, Edit, Skill
 model: opus
 ---
 
