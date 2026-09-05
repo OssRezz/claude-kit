@@ -29,6 +29,9 @@ will read your output.
 
 ## Procedure
 
+If `CLAUDE.md` does not exist, stop and recommend running `onboard`
+first. Do not attempt to infer the project structure yourself.
+
 ### 1. Shape
 
 Map the directory tree and identify the stack from manifest files

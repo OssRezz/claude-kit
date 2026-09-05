@@ -48,3 +48,4 @@ language used in conversation.
 | `templates/inventory-module.md` | scan | migrations only |
 | `templates/adr.md` | spec | on every architectural decision |
 | `templates/report.md` | test, refine | after each run |
+| `templates/project-claude.md` | onboard | project init or drift |

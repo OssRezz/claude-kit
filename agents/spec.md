@@ -45,6 +45,13 @@ documents. The architecture already exists - read the project
 
 ### 1. Orient
 
+If `CLAUDE.md` does not exist and the repository already contains
+code, stop and recommend running `onboard` first. Do not attempt to
+infer the project structure yourself.
+
+For a greenfield project with no code yet, proceed. `CLAUDE.md` is
+written by `onboard` after the architecture decision is recorded.
+
 Read, in this order, whichever exist:
 `CLAUDE.md`, `docs/STATE.md`, `docs/02-architecture.md`,
 `docs/00-inventory/*`.
