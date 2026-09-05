@@ -2,6 +2,15 @@
 
 These apply to every project and every agent.
 
+## Agent flow
+
+- `onboard` runs on repositories that already contain code. Never on
+  an empty directory: there is nothing to observe and the
+  architecture has not been decided yet.
+- For a new application the order is `spec` first (requirements and
+  the architecture ADR), then `onboard`, then `build`.
+- `scan` runs only for migrations.
+
 ## Git
 
 - Never add `Co-Authored-By`, `Generated with`, tool names, or any
