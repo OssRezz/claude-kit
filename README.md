@@ -51,7 +51,7 @@ scripts will not overwrite them silently.
     ls -l ~/.claude                                   # macOS / Linux
     Get-Item "$env:USERPROFILE\.claude\agents"        # Windows
 
-Six agents, six skills, one command.
+Six agents, five skills, one command.
 
 ### Other machines
 
